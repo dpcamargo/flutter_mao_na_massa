@@ -8,7 +8,7 @@ class HomePage extends StatelessWidget {
   Widget build(BuildContext context) {
     return Scaffold(
       appBar: AppBar(
-        title: const Text('Home Page'),
+        title: const Text('Home PageZZZZZZZZZZZZZZZZZZZZ'),
       ),
       body: Center(
         child: Column(
@@ -24,6 +24,21 @@ class HomePage extends StatelessWidget {
                   );
                 },
                 child: Text('Page 2 via PAGE')),
+            ElevatedButton(
+                onPressed: () {
+                  Navigator.of(context).pop();
+                },
+                child: Text('POP')),
+            ElevatedButton(
+                onPressed: () {
+                  Navigator.of(context).pop();
+                },
+                child: Text('POP')),
+            ElevatedButton(
+                onPressed: () {
+                  Navigator.of(context).pop();
+                },
+                child: Text('POP')),
             ElevatedButton(
                 onPressed: () {
                   Navigator.of(context).pop();
