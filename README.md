@@ -1,16 +1,22 @@
-# flutter_mao_na_massa
+# Flutter Mão na Massa - Academia do Flutter
 
-A new Flutter project.
+Repositório para referência pessoal
 
-## Getting Started
+Exemplos de códigos úteis localizados em /bin/pages
 
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+botoes_rotacao_texto
+bottom_navigator_bar
+cidades - lendo json
+circle_avatar
+colors
+container
+dialogs
+forms
+home
+layout_builder
+material_banner
+media_query
+rows_columns
+scrolls
+snackbar
+stack
