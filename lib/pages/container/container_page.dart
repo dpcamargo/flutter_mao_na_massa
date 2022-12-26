@@ -1,13 +1,13 @@
 import 'package:flutter/material.dart';
 
-class HomePage extends StatelessWidget {
-  const HomePage({super.key});
+class ContainerPage extends StatelessWidget {
+  const ContainerPage({Key? key}) : super(key: key);
 
   @override
   Widget build(BuildContext context) {
     return Scaffold(
       appBar: AppBar(
-        title: Text('Primeira AppBar'),
+        title: const Text('Exemplo de Container'),
       ),
       body: Center(
         child: Container(
